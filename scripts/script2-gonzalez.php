@@ -2,7 +2,7 @@
 /**
  * Clase usuario para el acceso a un sitio web
  * @author Juan Manuel González Navarrete
- * @version 1.0.0
+ * @version 1.0.1
  * @copyright Ciclo DAW 2023
  */
 
